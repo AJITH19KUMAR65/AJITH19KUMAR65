@@ -1,5 +1,10 @@
 ## Hi there 👋 It's me AJITH
 <h1 align="center">Hi 👋, I'm M.AJITH KUMAR</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith19kumar65&label=Profile%20views&color=0e75b6&style=flat" alt="ajith19kumar65" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajith19kumar65" alt="ajith19kumar65" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 Software Engineer @ Zoho Corporation
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
